@@ -3,7 +3,6 @@ package com.bezkoder.spring.security.jwt.security.jwt;
 import com.bezkoder.spring.security.jwt.security.services.UserDetailsServiceImpl;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
-import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.context.SecurityContextHolder;
